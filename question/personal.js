@@ -41,6 +41,6 @@ var personalQuestions = [
     "Ton jeu vidéo préféré ?",
 
     // Divers
-    "Si tu n'avais pas travailler dans l'informatique, tu aurais voulu faire quoi ?"
+    "Si tu n'avais pas travailler dans l'IT, tu aurais voulu faire quoi ?"
 
 ];
